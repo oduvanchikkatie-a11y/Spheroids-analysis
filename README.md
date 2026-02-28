@@ -1,22 +1,6 @@
 # Spheroids-analysis
 Repository contains raw spheroids data in CZI, TIF. Data collected from pictures is in XML format. Also here are ipynb files with discribtion of the way of forming and analyzing raw data.
 
-.mermaid .nodeLabel,
-.mermaid .edgeLabel,
-.mermaid span,
-.mermaid p,
-.mermaid .label,
-.mermaid .node rect + div,
-.mermaid .node span,
-.mermaid .node p {
-    color: white !important;
-    fill: white !important;
-}
-
-.mermaid .node span {
-    color: white !important;
-}
-</style>
 # Информация о датасете 
 ## Сырые данные
 Сырые изображения сфероидов, полученные с микроскопа, имеют формат CZI.<br/> Для дальнейшей работы изображения были переведены в формат TIF  (библиотеки czifile, tiffile).
