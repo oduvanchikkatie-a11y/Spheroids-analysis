@@ -1,34 +1,6 @@
 # Spheroids-analysis
 Repository contains raw spheroids data in CZI, TIF. Data collected from pictures is in XML format. Also here are ipynb files with discribtion of the way of forming and analyzing raw data.
 
-<style>
-body, p, h1, h2, h3, h4, h5, h6, li, td, th, span, div, strong, em {
-    color: black !important;
-}
-
-/* Специально для кода */
-code, pre, .codehilite {
-    color: black !important;
-}
-
-/* Для ссылок (если нужно) */
-a {
-    color: black !important;
-    text-decoration: underline;
-}
-
-/* Черные треугольники-стрелки */
-.marker path {
-    fill: black !important;
-    stroke: black !important;
-}
-
-/* Диаграмма - БЕЛЫЙ ТЕКСТ */
-.mermaid {
-    color: white !important;
-}
-
-/* Явно задаем белый цвет для текста внутри узлов диаграммы */
 .mermaid .nodeLabel,
 .mermaid .edgeLabel,
 .mermaid span,
